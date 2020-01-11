@@ -1,0 +1,3 @@
+cd ./ios
+
+./gradlew assembleRelease
