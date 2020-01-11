@@ -1,5 +1,5 @@
 {
-  "name": "ntProject",
+  "name": "reactnative",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -8,8 +8,8 @@
     "start": "react-native start",
     "test": "jest",
     "lint": "eslint .",
-    "buildandroid":"sh android.sh",
-    "buildios":"sh ios.sh"
+    "buildandroid": "sh android.sh",
+    "buildios": "sh ios.sh"
   },
   "dependencies": {
     "react": "16.9.0",
